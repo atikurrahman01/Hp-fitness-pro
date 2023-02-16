@@ -5,6 +5,10 @@ nav {
     padding: 20px;
 }
 
+.company-logo {
+    display: flex;
+}
+
 .menu-section {
     display: flex;
     justify-content: space-between;
@@ -108,4 +112,10 @@ nav {
     margin-top: -50px;
     transition: .50s;
     border-radius: 5%;
+}
+
+.text-d {
+    text-decoration: none;
+    color: rgb(17, 233, 222);
+    font-size: 18px;
 }
